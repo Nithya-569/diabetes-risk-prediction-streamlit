@@ -1,0 +1,13 @@
+# 1. (Optional) Create a virtual environment
+python -m venv venv
+source venv/bin/activate   # On Mac/Linux
+venv\Scripts\activate      # On Windows
+
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Run the Streamlit app
+streamlit run app.py
+
+# (Alternative with uv)
+uvx streamlit run app.py
