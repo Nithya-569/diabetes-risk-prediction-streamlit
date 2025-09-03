@@ -1,0 +1,6 @@
+Key features:
+⦁	Data Preprocessing: Cleaned and prepared the dataset for better accuracy.
+⦁	Machine Learning Model: Logistic Regression for binary classification.
+⦁	Interactive UI: Built with Streamlit for real-time predictions.
+⦁	User Input Form: Accepts health parameters (e.g., Glucose, Insulin, BMI).
+⦁	Deployment Ready: Can be run locally or deployed on Streamlit Cloud
